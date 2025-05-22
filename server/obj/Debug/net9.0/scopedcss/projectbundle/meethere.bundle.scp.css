@@ -1,0 +1,49 @@
+/* _content/meethere/Pages/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-csnsd44hqx] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-csnsd44hqx] {
+  color: #0077cc;
+}
+
+.btn-primary[b-csnsd44hqx] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-csnsd44hqx], .nav-pills .show > .nav-link[b-csnsd44hqx] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-csnsd44hqx] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-csnsd44hqx] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-csnsd44hqx] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-csnsd44hqx] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-csnsd44hqx] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
