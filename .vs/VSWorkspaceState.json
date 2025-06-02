@@ -2,11 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\client",
-    "\\client\\src",
-    "\\client\\src\\Components",
-    "\\server",
-    "\\server\\Pages"
+    "\\client\\src"
   ],
-  "SelectedNode": "\\client\\src\\Components\\Nav.jsx",
   "PreviewInSolutionExplorer": false
 }

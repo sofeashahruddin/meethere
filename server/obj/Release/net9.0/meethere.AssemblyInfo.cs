@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("meethere")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b0d41eb0281e7dfc9493e77d30c4165dd4e734f")]
 [assembly: System.Reflection.AssemblyProductAttribute("meethere")]
 [assembly: System.Reflection.AssemblyTitleAttribute("meethere")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
